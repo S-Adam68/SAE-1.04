@@ -8,9 +8,10 @@ L’objectif était de créer un CV en ligne en utilisant uniquement HTML5 et CS
 - Page formations (formations.html)
 - Page expériences (experiences.html)
 - Fichier de style global (style.css)
+- Dossier images pour les photos locales utilisées dans le CV (/images)
 
 ## Objectif du projet
-Créer un site Web CV moderne, responsive et organisé en plusieurs pages.
+Créer un site Web CV moderne, clair et organisé en plusieurs pages.
 
 ## Outils
 -Codepen.io
